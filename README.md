@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **officialkaushal323@gmail.com**
 
-- ⚡ Fun fact **I am funny af**😆
+- ⚡ Fun fact **I am humorous af**😆
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
