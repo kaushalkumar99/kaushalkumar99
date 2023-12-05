@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 <h3 align="center">A Frontend & a Salesforce Developer</h3>
 
+[![An image of @kaushalkumar99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushalkumar99)](https://holopin.io/@kaushalkumar99)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalkumar99&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalkumar99" /> </p>
 
 - 👯 I’m looking to collaborate on **HTML,CSS & JS projects** <img align ="right" src="https://media0.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" width="500">
